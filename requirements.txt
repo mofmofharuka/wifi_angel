@@ -1,6 +1,6 @@
 line-bot-sdk
 flask
 python-dotenv
-Pillow==5.3.0
+Pillow==9.0.1
 Flask-SQLAlchemy
 PyMySQL
